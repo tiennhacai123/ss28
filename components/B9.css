@@ -1,0 +1,22 @@
+.alter{
+    background-color: black;
+    color: white;
+}
+.theme{
+    background-color: white;
+    color: black;
+}
+.clicked {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.aa{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
